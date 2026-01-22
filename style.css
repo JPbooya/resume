@@ -41,5 +41,12 @@ head {
     padding: 10px;
     gap: 15px;
   }
-  
+}
+
+img {
+  box-shadow: 0 4px 8px black;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
