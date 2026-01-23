@@ -1,8 +1,6 @@
 :root {
   --primary-color: rgb(3, 7, 240);
   --background-color: rgb(201, 201, 201);
-  --card-background: white;
-  --text-color: rgb(0, 0, 0);
 }
 
 html {
